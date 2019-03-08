@@ -1,0 +1,24 @@
+{
+  "name": "phonebookinterface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node": "^11.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpreki/-phonebookinterface.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpreki/-phonebookinterface/issues"
+  },
+  "homepage": "https://github.com/bpreki/-phonebookinterface#readme"
+}
